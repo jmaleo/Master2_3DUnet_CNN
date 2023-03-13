@@ -4,6 +4,10 @@ This project is a fork of the [3DUnet_CNN](https://github.com/ellisdg/3DUnetCNN)
 
 This fork is presented as part of a computer project in Master 2 Computer Science at Toulouse III Paul Sabatier.
 
+# Authors of this short fork
+- Lou Denis
+- Léo Arnal--Anger
+
 ## Prerequisites
 
 Download the original repository from [3DUnet_CNN](https://github.com/ellisdg/3DUnetCNN).
